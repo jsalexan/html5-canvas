@@ -20,7 +20,7 @@
     - Global Composite Operator - use this to blend, etc.<br>
   
   <br>
-  Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+  Grab the course at (https://JavaScript30.com)
   <br><br>
   
 
